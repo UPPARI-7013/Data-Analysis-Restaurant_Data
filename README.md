@@ -1,3 +1,6 @@
+Data Analysis Projects – Level 1 & 2
+This repository contains two beginner-friendly data analysis projects designed to enhance practical data skills using Python and Jupyter Notebooks. These projects are a part of an internship/learning program and focus on fundamental techniques used in data analysis.
+
 📂 Contents
 Data-Analysis-Level-1.ipynb:
 Covers basic data exploration and visualization using a given dataset.
